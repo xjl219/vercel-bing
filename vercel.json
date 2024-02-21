@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://copilot.microsoft.com/$1"
+      "destination": "https://gemini.google.com/$1"
     }
   ]
 }
